@@ -1,0 +1,5 @@
+name: madfu_manager
+title: Madfu Manager
+description: NewAPI 中转站与香港服务器日常管理：巡检异常报告、用户与账务客诉排查、token 分组双检、渠道与定价操作、备份升级回滚，按用户定的三档分工执行，正式报告一律用 answer-me-with-html 的 am render 渲染成 HTML 页交付。触发词：NewAPI、新-api、中转站、香港机、ai.aobzii.cn、渠道、分组倍率、计费、用户投诉、多扣、空回、备份、巡检、出报告。
+category: "Work and knowledge"
+include_in_prompt: true
